@@ -1,0 +1,19 @@
+{
+  "name": "booking-ticket-automation-assessment",
+  "version": "1.0.0",
+  "description": "Playwright automation suite for the Booking.com ticket booking feature QA assessment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [
+    "playwright",
+    "qa-automation",
+    "test-specialist"
+  ],
+  "author": "NurHanis Nabilah Binti Roslan",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.47.0"
+  }
+}
